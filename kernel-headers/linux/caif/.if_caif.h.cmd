@@ -1,0 +1,1 @@
+cmd_usr/include/linux/caif/if_caif.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/caif/if_caif.h usr/include/linux/caif/if_caif.h

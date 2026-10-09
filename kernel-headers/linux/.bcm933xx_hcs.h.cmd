@@ -1,0 +1,1 @@
+cmd_usr/include/linux/bcm933xx_hcs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/bcm933xx_hcs.h usr/include/linux/bcm933xx_hcs.h

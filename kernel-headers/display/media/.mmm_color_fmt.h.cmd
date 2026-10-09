@@ -1,0 +1,1 @@
+cmd_usr/include/display/media/mmm_color_fmt.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/display/include/uapi/display/media/mmm_color_fmt.h usr/include/display/media/mmm_color_fmt.h

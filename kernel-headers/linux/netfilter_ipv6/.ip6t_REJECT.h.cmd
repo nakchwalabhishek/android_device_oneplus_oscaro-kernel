@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_ipv6/ip6t_REJECT.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/netfilter_ipv6/ip6t_REJECT.h usr/include/linux/netfilter_ipv6/ip6t_REJECT.h

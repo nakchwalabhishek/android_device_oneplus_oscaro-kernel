@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vhost.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/vhost.h usr/include/linux/vhost.h

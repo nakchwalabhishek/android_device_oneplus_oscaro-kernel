@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/wcd-spi-ac-params.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/audio/include/uapi/audio/linux/wcd-spi-ac-params.h usr/include/audio/linux/wcd-spi-ac-params.h

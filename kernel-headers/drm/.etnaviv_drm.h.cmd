@@ -1,0 +1,1 @@
+cmd_usr/include/drm/etnaviv_drm.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/drm/etnaviv_drm.h usr/include/drm/etnaviv_drm.h

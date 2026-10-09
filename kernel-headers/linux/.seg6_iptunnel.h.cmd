@@ -1,0 +1,1 @@
+cmd_usr/include/linux/seg6_iptunnel.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/seg6_iptunnel.h usr/include/linux/seg6_iptunnel.h

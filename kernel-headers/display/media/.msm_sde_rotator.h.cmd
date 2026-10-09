@@ -1,0 +1,1 @@
+cmd_usr/include/display/media/msm_sde_rotator.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/display/include/uapi/display/media/msm_sde_rotator.h usr/include/display/media/msm_sde_rotator.h

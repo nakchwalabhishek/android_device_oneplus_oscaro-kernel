@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/rvt-abi.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/rdma/rvt-abi.h usr/include/rdma/rvt-abi.h

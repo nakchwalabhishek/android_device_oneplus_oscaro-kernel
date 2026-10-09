@@ -1,0 +1,1 @@
+cmd_usr/include/video/sisfb.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/video/sisfb.h usr/include/video/sisfb.h

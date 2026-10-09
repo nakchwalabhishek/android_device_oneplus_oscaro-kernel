@@ -1,0 +1,1 @@
+cmd_usr/include/linux/net_namespace.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/net_namespace.h usr/include/linux/net_namespace.h

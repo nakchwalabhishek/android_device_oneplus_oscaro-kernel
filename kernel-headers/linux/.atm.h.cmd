@@ -1,0 +1,1 @@
+cmd_usr/include/linux/atm.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/atm.h usr/include/linux/atm.h

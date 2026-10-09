@@ -1,0 +1,1 @@
+cmd_usr/include/drm/tegra_drm.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/drm/tegra_drm.h usr/include/drm/tegra_drm.h

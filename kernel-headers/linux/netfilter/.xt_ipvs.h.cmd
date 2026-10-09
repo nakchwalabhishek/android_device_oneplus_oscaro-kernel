@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter/xt_ipvs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/netfilter/xt_ipvs.h usr/include/linux/netfilter/xt_ipvs.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/atmbr2684.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/atmbr2684.h usr/include/linux/atmbr2684.h

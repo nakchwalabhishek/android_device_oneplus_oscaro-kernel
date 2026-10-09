@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/msmcal-hwdep.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/audio/include/uapi/audio/sound/msmcal-hwdep.h usr/include/audio/sound/msmcal-hwdep.h

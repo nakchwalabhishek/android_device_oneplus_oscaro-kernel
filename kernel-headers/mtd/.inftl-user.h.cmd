@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/inftl-user.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/mtd/inftl-user.h usr/include/mtd/inftl-user.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/isdn/capicmd.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/isdn/capicmd.h usr/include/linux/isdn/capicmd.h

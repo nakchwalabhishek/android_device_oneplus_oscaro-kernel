@@ -1,0 +1,1 @@
+cmd_usr/include/sound/emu10k1.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/emu10k1.h usr/include/sound/emu10k1.h

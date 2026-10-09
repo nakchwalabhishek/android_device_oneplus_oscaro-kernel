@@ -1,0 +1,1 @@
+cmd_usr/include/misc/wigig_sensing_uapi.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/misc/wigig_sensing_uapi.h usr/include/misc/wigig_sensing_uapi.h

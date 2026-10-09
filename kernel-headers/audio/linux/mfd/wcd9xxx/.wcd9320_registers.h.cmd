@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/mfd/wcd9xxx/wcd9320_registers.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/audio/include/uapi/audio/linux/mfd/wcd9xxx/wcd9320_registers.h usr/include/audio/linux/mfd/wcd9xxx/wcd9320_registers.h

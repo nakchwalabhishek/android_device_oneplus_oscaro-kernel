@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/scsi_bsg_ufs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/scsi/scsi_bsg_ufs.h usr/include/scsi/scsi_bsg_ufs.h

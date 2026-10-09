@@ -1,0 +1,1 @@
+cmd_usr/include/linux/thermal.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/thermal.h usr/include/linux/thermal.h

@@ -1,0 +1,1 @@
+cmd_usr/include/display/drm/msm_drm_pp.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/display/include/uapi/display/drm/msm_drm_pp.h usr/include/display/drm/msm_drm_pp.h

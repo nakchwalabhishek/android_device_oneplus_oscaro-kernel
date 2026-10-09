@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_bridge/ebt_arpreply.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/netfilter_bridge/ebt_arpreply.h usr/include/linux/netfilter_bridge/ebt_arpreply.h

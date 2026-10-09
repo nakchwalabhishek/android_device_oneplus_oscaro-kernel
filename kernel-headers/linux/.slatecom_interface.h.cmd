@@ -1,0 +1,1 @@
+cmd_usr/include/linux/slatecom_interface.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/slatecom_interface.h usr/include/linux/slatecom_interface.h

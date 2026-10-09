@@ -1,0 +1,1 @@
+cmd_usr/include/linux/target_core_user.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/target_core_user.h usr/include/linux/target_core_user.h

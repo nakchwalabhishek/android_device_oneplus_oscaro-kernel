@@ -1,0 +1,1 @@
+cmd_usr/include/asm/perf_regs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/arch/arm64/include/uapi/asm/perf_regs.h usr/include/asm/perf_regs.h

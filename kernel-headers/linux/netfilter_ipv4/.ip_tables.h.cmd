@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_ipv4/ip_tables.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/netfilter_ipv4/ip_tables.h usr/include/linux/netfilter_ipv4/ip_tables.h

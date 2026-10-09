@@ -1,0 +1,1 @@
+cmd_usr/include/linux/b1lli.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/b1lli.h usr/include/linux/b1lli.h

@@ -1,0 +1,1 @@
+cmd_usr/include/sound/hdsp.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/hdsp.h usr/include/sound/hdsp.h

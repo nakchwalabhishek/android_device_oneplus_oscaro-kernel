@@ -1,0 +1,1 @@
+cmd_usr/include/linux/spi/spidev.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/spi/spidev.h usr/include/linux/spi/spidev.h

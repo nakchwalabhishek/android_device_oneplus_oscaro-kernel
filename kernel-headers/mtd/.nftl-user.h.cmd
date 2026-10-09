@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/nftl-user.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/mtd/nftl-user.h usr/include/mtd/nftl-user.h

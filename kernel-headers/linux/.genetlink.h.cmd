@@ -1,0 +1,1 @@
+cmd_usr/include/linux/genetlink.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/genetlink.h usr/include/linux/genetlink.h

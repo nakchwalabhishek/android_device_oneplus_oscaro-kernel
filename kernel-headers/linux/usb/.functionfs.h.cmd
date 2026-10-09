@@ -1,0 +1,1 @@
+cmd_usr/include/linux/usb/functionfs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/usb/functionfs.h usr/include/linux/usb/functionfs.h

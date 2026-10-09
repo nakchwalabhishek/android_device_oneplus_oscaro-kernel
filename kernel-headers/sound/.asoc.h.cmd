@@ -1,0 +1,1 @@
+cmd_usr/include/sound/asoc.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/asoc.h usr/include/sound/asoc.h

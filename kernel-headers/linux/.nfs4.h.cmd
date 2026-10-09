@@ -1,0 +1,1 @@
+cmd_usr/include/linux/nfs4.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/nfs4.h usr/include/linux/nfs4.h

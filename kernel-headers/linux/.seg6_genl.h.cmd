@@ -1,0 +1,1 @@
+cmd_usr/include/linux/seg6_genl.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/seg6_genl.h usr/include/linux/seg6_genl.h

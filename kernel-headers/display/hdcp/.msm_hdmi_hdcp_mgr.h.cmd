@@ -1,0 +1,1 @@
+cmd_usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/display/include/uapi/display/hdcp/msm_hdmi_hdcp_mgr.h usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h

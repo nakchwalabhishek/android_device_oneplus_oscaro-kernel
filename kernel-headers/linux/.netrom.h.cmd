@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netrom.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/netrom.h usr/include/linux/netrom.h

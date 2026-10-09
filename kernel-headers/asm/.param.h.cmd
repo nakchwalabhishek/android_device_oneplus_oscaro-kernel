@@ -1,0 +1,1 @@
+cmd_usr/include/asm/param.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/arch/arm64/include/uapi/asm/param.h usr/include/asm/param.h

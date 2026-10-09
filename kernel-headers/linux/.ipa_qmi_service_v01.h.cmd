@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ipa_qmi_service_v01.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/ipa_qmi_service_v01.h usr/include/linux/ipa_qmi_service_v01.h

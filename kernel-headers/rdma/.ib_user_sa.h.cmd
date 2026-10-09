@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/ib_user_sa.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/rdma/ib_user_sa.h usr/include/rdma/ib_user_sa.h

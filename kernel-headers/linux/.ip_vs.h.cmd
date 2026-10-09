@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ip_vs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/ip_vs.h usr/include/linux/ip_vs.h

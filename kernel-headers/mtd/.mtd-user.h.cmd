@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/mtd-user.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/mtd/mtd-user.h usr/include/mtd/mtd-user.h

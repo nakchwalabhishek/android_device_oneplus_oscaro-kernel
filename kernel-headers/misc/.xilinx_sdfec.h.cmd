@@ -1,0 +1,1 @@
+cmd_usr/include/misc/xilinx_sdfec.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/misc/xilinx_sdfec.h usr/include/misc/xilinx_sdfec.h

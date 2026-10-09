@@ -1,0 +1,1 @@
+cmd_usr/include/linux/wimax/i2400m.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/wimax/i2400m.h usr/include/linux/wimax/i2400m.h

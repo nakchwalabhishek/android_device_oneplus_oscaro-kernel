@@ -1,0 +1,1 @@
+cmd_usr/include/media/msm_cvp_private.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/media/msm_cvp_private.h usr/include/media/msm_cvp_private.h

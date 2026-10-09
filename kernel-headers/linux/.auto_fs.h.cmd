@@ -1,0 +1,1 @@
+cmd_usr/include/linux/auto_fs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/auto_fs.h usr/include/linux/auto_fs.h

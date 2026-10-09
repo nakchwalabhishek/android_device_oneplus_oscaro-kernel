@@ -1,0 +1,1 @@
+cmd_usr/include/sound/skl-tplg-interface.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/skl-tplg-interface.h usr/include/sound/skl-tplg-interface.h

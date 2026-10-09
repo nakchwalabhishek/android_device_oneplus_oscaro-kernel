@@ -1,0 +1,1 @@
+cmd_usr/include/linux/lirc.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/lirc.h usr/include/linux/lirc.h

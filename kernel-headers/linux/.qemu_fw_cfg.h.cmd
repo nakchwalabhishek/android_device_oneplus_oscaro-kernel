@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qemu_fw_cfg.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/qemu_fw_cfg.h usr/include/linux/qemu_fw_cfg.h

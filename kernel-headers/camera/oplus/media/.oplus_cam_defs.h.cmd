@@ -1,0 +1,1 @@
+cmd_usr/include/camera/oplus/media/oplus_cam_defs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/camera/include/uapi/camera/oplus/media/oplus_cam_defs.h usr/include/camera/oplus/media/oplus_cam_defs.h

@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sfnt_info.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/sfnt_info.h usr/include/sound/sfnt_info.h

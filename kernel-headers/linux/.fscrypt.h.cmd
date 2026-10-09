@@ -1,0 +1,1 @@
+cmd_usr/include/linux/fscrypt.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/fscrypt.h usr/include/linux/fscrypt.h

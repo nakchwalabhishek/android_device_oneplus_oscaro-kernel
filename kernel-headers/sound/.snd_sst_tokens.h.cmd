@@ -1,0 +1,1 @@
+cmd_usr/include/sound/snd_sst_tokens.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/snd_sst_tokens.h usr/include/sound/snd_sst_tokens.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/cec-funcs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/cec-funcs.h usr/include/linux/cec-funcs.h

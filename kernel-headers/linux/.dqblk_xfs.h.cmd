@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dqblk_xfs.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/dqblk_xfs.h usr/include/linux/dqblk_xfs.h

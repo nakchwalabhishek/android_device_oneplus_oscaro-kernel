@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/ubi-user.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/mtd/ubi-user.h usr/include/mtd/ubi-user.h

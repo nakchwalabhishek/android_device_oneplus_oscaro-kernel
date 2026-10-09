@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_ipv4/ipt_ecn.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/netfilter_ipv4/ipt_ecn.h usr/include/linux/netfilter_ipv4/ipt_ecn.h

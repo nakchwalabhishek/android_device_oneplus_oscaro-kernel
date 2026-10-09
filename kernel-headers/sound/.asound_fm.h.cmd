@@ -1,0 +1,1 @@
+cmd_usr/include/sound/asound_fm.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/asound_fm.h usr/include/sound/asound_fm.h

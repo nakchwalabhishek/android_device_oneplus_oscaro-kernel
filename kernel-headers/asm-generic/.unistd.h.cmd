@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/unistd.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/asm-generic/unistd.h usr/include/asm-generic/unistd.h

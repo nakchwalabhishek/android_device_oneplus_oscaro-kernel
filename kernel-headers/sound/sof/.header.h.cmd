@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sof/header.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/sof/header.h usr/include/sound/sof/header.h

@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/ocrdma-abi.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/rdma/ocrdma-abi.h usr/include/rdma/ocrdma-abi.h

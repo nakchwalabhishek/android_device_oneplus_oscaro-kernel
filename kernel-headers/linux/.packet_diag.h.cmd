@@ -1,0 +1,1 @@
+cmd_usr/include/linux/packet_diag.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/packet_diag.h usr/include/linux/packet_diag.h

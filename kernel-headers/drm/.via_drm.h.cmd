@@ -1,0 +1,1 @@
+cmd_usr/include/drm/via_drm.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/drm/via_drm.h usr/include/drm/via_drm.h

@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sof/tokens.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/sof/tokens.h usr/include/sound/sof/tokens.h

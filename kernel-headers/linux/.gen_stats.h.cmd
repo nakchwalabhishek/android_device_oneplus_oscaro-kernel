@@ -1,0 +1,1 @@
+cmd_usr/include/linux/gen_stats.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/gen_stats.h usr/include/linux/gen_stats.h

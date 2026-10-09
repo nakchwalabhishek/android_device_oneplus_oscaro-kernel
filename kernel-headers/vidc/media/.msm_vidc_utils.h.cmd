@@ -1,0 +1,1 @@
+cmd_usr/include/vidc/media/msm_vidc_utils.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/video/include/uapi/vidc/media/msm_vidc_utils.h usr/include/vidc/media/msm_vidc_utils.h

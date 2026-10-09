@@ -1,0 +1,1 @@
+cmd_usr/include/audio/linux/msm_audio_ac3.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/techpack/audio/include/uapi/audio/linux/msm_audio_ac3.h usr/include/audio/linux/msm_audio_ac3.h

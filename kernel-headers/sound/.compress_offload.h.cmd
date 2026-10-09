@@ -1,0 +1,1 @@
+cmd_usr/include/sound/compress_offload.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/sound/compress_offload.h usr/include/sound/compress_offload.h

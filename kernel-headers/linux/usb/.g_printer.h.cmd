@@ -1,0 +1,1 @@
+cmd_usr/include/linux/usb/g_printer.h := sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/scripts/headers_install.sh /serverhive/nakchwal626/lineage/kernel/oneplus/sm6375/include/uapi/linux/usb/g_printer.h usr/include/linux/usb/g_printer.h
